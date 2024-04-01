@@ -27,6 +27,10 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Vishwas567917&theme=radical)](https://git.io/streak-stats)
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Vishwas567917&theme=dracula&row=2&no-bg=true&column=8&margin-w=15&margin-h=15" />
+</p>
+
 ### My Projects
 
 Stay tuned for updates on my latest projects!
