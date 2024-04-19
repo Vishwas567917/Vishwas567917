@@ -31,6 +31,8 @@
   <img src="https://github-profile-trophy.vercel.app/?username=Vishwas567917&theme=dracula&row=2&no-bg=true&column=8&margin-w=15&margin-h=15" />
 </p>
 
+<a href="https://info.flagcounter.com/Jk2t"><img src="https://s11.flagcounter.com/count2/Jk2t/bg_F7FF05/txt_26FF93/border_17FFD8/columns_8/maxflags_250/viewers_Max/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
+
 ### My Projects
 
 Stay tuned for updates on my latest projects!
