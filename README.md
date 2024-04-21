@@ -34,6 +34,17 @@
 
 <a href="https://info.flagcounter.com/Jk2t"><img src="https://s11.flagcounter.com/count2/Jk2t/bg_F7FF05/txt_26FF93/border_17FFD8/columns_8/maxflags_250/viewers_Max/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
 
+<h2 align="center"><img src="assets/contact_me.gif" width="35px"/><b>Connect with me</b></h2>
+   
+<br>
+<br>
+
+<div align="center">
+
+<a href="https://github.com/Vishwas567917" target="_blank"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="Github"/></a>
+<a href="https://twitter.com/@Vishwas66953778" target="_blank"><img src="https://img.shields.io/badge/twitter-%232a65f7.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
+  </div>
+
 ### My Projects
 
 Stay tuned for updates on my latest projects!
