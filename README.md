@@ -66,6 +66,8 @@ I believe that coding is like solving puzzles – challenging yet incredibly rew
 
 Thanks for stopping by! 🚀
 
+<img draggable="false" src="https://i.pinimg.com/originals/8a/de/b5/8adeb530a32f7633ea2ca13484132477.jpg" alt="cute boy">
+
 <div align="center">
   <br>
   <p align="center"><b>Visitors Count</b></p>  
