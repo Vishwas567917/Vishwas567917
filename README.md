@@ -45,6 +45,13 @@
 <a href="https://twitter.com/@Vishwas66953778" target="_blank"><img src="https://img.shields.io/badge/twitter-%232a65f7.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
   </div>
 
+<p align="center">
+  <a href="https://github.com/Vishwas567917"><img src="https://count.getloli.com/get/@:Rez4-4?theme=rule34" width="50%"/>
+</p>
+
+<p align="center">
+  <img src='https://counter.seku.su/cmoe?name=Kimiko-chann&theme=r34' width="400px">
+
 ### My Projects
 
 Stay tuned for updates on my latest projects!
