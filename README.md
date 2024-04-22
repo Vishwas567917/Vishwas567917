@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=wave&height=300&color=gradient"/>
+<img width=100% src="https://animesher.com/orig/1/184/1842/18425/animesher.com_lights-city-gif-1842568.gif"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=eec900&size=35&center=true&vCenter=true&width=1000&lines=HELLO%2C+My+name+is+Vishwas+Shrivastava+%3B+I'm+18+years+old%3BI'm+from+India%3BBe+Welcome%21+%3A%29)](https://git.io/typing-svg)
 
