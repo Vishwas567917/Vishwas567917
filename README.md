@@ -47,6 +47,8 @@
 
 <a href="https://github.com/Vishwas567917" target="_blank"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="Github"/></a>
 <a href="https://twitter.com/@Vishwas66953778" target="_blank"><img src="https://img.shields.io/badge/twitter-%232a65f7.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
+<a href="https://Discord.com/deadking_18" target="_blank"><img src="https://img.shields.io/badge/discord-%232a65f7.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>
+<a href="https://t.me/vi570" target="_blank"><img src="https://img.shields.io/badge/telegram-%232a65f7.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Telegram"/></a>
   </div>
 
 <p align="center">
