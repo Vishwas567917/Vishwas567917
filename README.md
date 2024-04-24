@@ -36,7 +36,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=Vishwas567917&theme=dracula&row=2&no-bg=true&column=8&margin-w=15&margin-h=15" />
 </p>
 
-<a href="https://info.flagcounter.com/Jk2t"><img src="https://s11.flagcounter.com/count2/Jk2t/bg_F7FF05/txt_26FF93/border_17FFD8/columns_8/maxflags_250/viewers_Max/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
+![Profile views counter](https://komarev.com/ghpvc/?Vishwas567917=<VishwasShrivastava>&style=flat-square)
 
 <h2 align="center"><img src="assets/contact_me.gif" width="35px"/><b>Connect with me</b></h2>
    
