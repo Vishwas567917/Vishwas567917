@@ -12,7 +12,7 @@
 
 #
 
-<div style="width:100%;height:0;padding-bottom:88%;position:relative;"><img src="https://dthezntil550i.cloudfront.net/sb/latest/sb2007210058328650007120938/1280_960/b25fd414-d196-44ce-8842-b938b1c39bc2.png" class="giphy-embed" alt="Kirito" align="center"></div>
+<div style="width:100%;height:0;padding-bottom:88%;position:relative;"><img src="https://dthezntil550i.cloudfront.net/sb/latest/sb2007210058328650007120938/1280_960/b25fd414-d196-44ce-8842-b938b1c39bc2.png" class="giphy-embed" alt="Kirito" width="200" align="center"></div>
 
 ## <picture><img src ="coding-typing.gif" width = 50px></picture>*About Me* 
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9d0fd0c4-5c7f-4122-b884-64a1e1685d2d" width="200" align="right">
@@ -69,7 +69,7 @@ I believe that coding is like solving puzzles – challenging yet incredibly rew
 
 Thanks for stopping by! 🚀
 
-<img draggable="false" src="https://wallpapers.com/images/hd/cute-anime-boys-pwqs0n4y80kbnxi3.jpg" alt="cute boy">
+<img draggable="false" src="https://wallpapers.com/images/hd/cute-anime-boys-pwqs0n4y80kbnxi3.jpg" alt="cute boy" width="200" align="center" >
 
 <div align="center">
   <br>
