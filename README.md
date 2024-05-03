@@ -33,7 +33,7 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Vishwas567917&theme=radical)](https://git.io/streak-stats)
 
-<img src="https://github-readme-stats.vercel.app/api?username=Vishwas567917&custom_title=Vishwas's%20GitHub%20statistics&show_icons=true&theme=shadow_green&rank_icon=percentile&include_all_commits=true&theme=transparent" alt="Vishwas" />
+
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Vishwas567917&theme=dracula&row=2&no-bg=true&column=8&margin-w=15&margin-h=15" />
