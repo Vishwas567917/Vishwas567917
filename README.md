@@ -78,11 +78,18 @@ Thanks for stopping by! 🚀
 
 <img draggable="false" src="https://wallpapers.com/images/hd/cute-anime-boys-pwqs0n4y80kbnxi3.jpg" alt="cute boy" width="200" align="center" >
 
+
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7d484dc9-68a9-4ee6-a767-aea59035c12d" width="1000">
+<br><br>
+
+
 <div align="center">
   <br>
   <p align="center"><b>Visitors Count</b></p>  
   <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Vishwas567917}/count.svg" /></p> 
   <br>
 </div>
+
+
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=wave&height=300&color=gradient&section=footer"/>
