@@ -24,12 +24,9 @@
 - 📚 Believer in the power of god and smart work.
 
 ### 📊 Stats
-
-![Vishwas's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vishwas567917&show_icons=true&theme=radical)
+![Vishwas's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vishwas567917\&bg_color=30,e96443,904e95\&title_color=fff\&text_color=fff)
 
 ![Vishwas's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vishwas567917\&rank_icon=percentile)
-
-![LeetCode Stats](https://leetcard.jacoblin.cool/Vishwas567917?theme=light&font=Libre%20Caslon%20Display&site=cn)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vishwas567917&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
