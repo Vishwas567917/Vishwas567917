@@ -27,7 +27,7 @@
 
 ![Vishwas's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vishwas567917&show_icons=true&theme=radical)
 
-   <img src="https://github-readme-stats.vercel.app/api username=Vishwas567917&custom_title=Vishwas's%20GitHub%20statistics&show_icons=true&theme=shadow_green&rank_icon=percentile&include_all_commits=true&theme=transparent" alt="Vishwas" />
+![Vishwas's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vishwas567917\&rank_icon=percentile)
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Vishwas567917?theme=light&font=Libre%20Caslon%20Display&site=cn)
 
