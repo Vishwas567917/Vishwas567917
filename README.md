@@ -27,8 +27,10 @@
 
 ![Vishwas's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vishwas567917&show_icons=true&theme=radical)
 
-![Vishwas Shrivastava's Leetcode Stats](https://leetcard.jacoblin.cool/Vishwas567917?theme=unicorn)
-[![An image of @Vishwasshrivastava's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/vishwasshrivastav)](https://holopin.io/@vishwasshrivastava)
+   <img src="https://github-readme-stats.vercel.app/api username=Vishwas567917&custom_title=Vishwas's%20GitHub%20statistics&show_icons=true&theme=shadow_green&rank_icon=percentile&include_all_commits=true&theme=transparent" alt="Vishwas" />
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/Vishwas567917?theme=light&font=Libre%20Caslon%20Display&site=cn)
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vishwas567917&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
