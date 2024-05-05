@@ -1,7 +1,8 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=171&color=gradient"/>
 
 
-![Header](https://github.com/Vishwas567917/Vishwas567917/assets/139749696/b88a52b9-42fb-460e-b685-976ca079a67a)
+![Header](https://github.com/Vishwas567917/Vishwas567917/assets/139749696/e2e2842b-af06-4713-8f03-1b44dea70014)
+
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=eec900&size=35&center=true&vCenter=true&width=1000&lines=HELLO%2C+My+name+is+Vishwas+Shrivastava+%3B+I'm+18+years+old%3BI'm+from+India%3BBe+Welcome%21+%3A%29)](https://git.io/typing-svg)
@@ -37,6 +38,8 @@
 [![Vishwas's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Vishwas567917&bg_color=121111&color=00ffe1&line=fa00d9&point=fff700&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Vishwas567917&theme=radical)](https://git.io/streak-stats)
+
+[![An image of @vishwas567917's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/vishwas567917)](https://holopin.io/@vishwas567917)
 
 
 
