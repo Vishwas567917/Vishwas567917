@@ -10,7 +10,7 @@
 ### <picture><img src ="https://cdn.pixabay.com/animation/2023/06/13/15/13/15-13-30-905_512.gif" width = 30px></picture> *Languages and Tools🧰*
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,html,css,js,npm,nodejs" />
+    <img src="https://skillicons.dev/icons?i=git,html,css,js,npm,nodejs,expressjs" />
   </a>
 </p>
 
