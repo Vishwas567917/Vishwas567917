@@ -30,7 +30,7 @@
 ### 📊 Stats
 ![Vishwas's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vishwas567917\&bg_color=30,e96443,904e95\&title_color=fff\&text_color=fff)
 
-![Vishwas's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vishwas567917\&rank_icon=percentile)
+![Vishwas's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vishwas567917\&rank_icon=percentile\&show_icons=true\&title_color=fff\&icon_color=79ff97\&text_color=9f9f9f\&bg_color=151515)
 
 <p align="center">
  <a href="https://open.spotify.com/embed/playlist/5fOs09aFAEiXj9ok2ttvdI?utm_source=generator" target="_blank"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31lc6lit7zn7vmmwqrxiza4ceno4&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" alt="Spotify Now Playing" width="350"/></a></p>
