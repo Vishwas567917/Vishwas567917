@@ -35,7 +35,9 @@
 <p align="center">
  <a href="https://open.spotify.com/embed/playlist/5fOs09aFAEiXj9ok2ttvdI?utm_source=generator" target="_blank"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31lc6lit7zn7vmmwqrxiza4ceno4&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" alt="Spotify Now Playing" width="350"/></a></p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vishwas567917&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vishwas567917\&layout=donut\&bg_color=30,e96443,904e95\&title_color=fff\&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 [![Vishwas's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Vishwas567917&bg_color=121111&color=00ffe1&line=fa00d9&point=fff700&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
