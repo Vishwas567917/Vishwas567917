@@ -71,11 +71,11 @@
   </div>
 
 <p align="center">
-  <a href="https://github.com/Vishwas567917"><img src="https://count.getloli.com/get/@:Rez4-4?theme=rule34" width="50%"/>
+    <img src='https://counter.seku.su/cmoe?name=Kimiko-chann&theme=r34' width="400px">
 </p>
 
-<p align="center">
-  <img src='https://counter.seku.su/cmoe?name=Kimiko-chann&theme=r34' width="400px">
+
+
 
 ### My Projects
 
