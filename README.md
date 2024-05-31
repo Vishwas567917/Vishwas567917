@@ -6,7 +6,6 @@
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=eec900&size=35&center=true&vCenter=true&width=1000&lines=HELLO%2C+My+name+is+Vishwas+Shrivastava+%3B+I'm+18+years+old%3BI'm+from+India%3BBe+Welcome%21+%3A%29)](https://git.io/typing-svg)
-       [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9111F7&random=false&width=435&lines=Currently!+learning+React+JS)](https://git.io/typing-svg)
 
 ### <picture><img src ="https://cdn.pixabay.com/animation/2023/06/13/15/13/15-13-30-905_512.gif" width = 30px></picture> *Languages and Tools🧰*
 <p align="center">
@@ -16,6 +15,7 @@
 </p>
 
 #
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9111F7&random=false&width=435&lines=Currently!+learning+React+JS)](https://git.io/typing-svg)
 
 <div style="width:100%;height:0;padding-bottom:88%;position:relative;"><img src="https://dthezntil550i.cloudfront.net/sb/latest/sb2007210058328650007120938/1280_960/b25fd414-d196-44ce-8842-b938b1c39bc2.png" class="giphy-embed" alt="Kirito" width="200" align="center"></div>
 
