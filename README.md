@@ -46,7 +46,7 @@
 [![An image of @vishwas567917's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/vishwas567917)](https://holopin.io/@vishwas567917)
 
 
-
+![Parth Shrivastava's Leetcode Stats](https://leetcard.jacoblin.cool/Rockey19?theme=unicorn)
 
 
 <p align="center">
