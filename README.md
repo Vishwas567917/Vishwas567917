@@ -15,7 +15,7 @@
 </p>
 
 #
- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9111F7&random=false&width=435&lines=Currently!+learning+C%2B%2B+Programming+In+DSA)](https://git.io/typing-svg)
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9111F7&random=false&width=435&lines=Currently!+learning+C%2B%2B+Programming)](https://git.io/typing-svg)
 
 <div style="width:100%;height:0;padding-bottom:88%;position:relative;"><img src="https://dthezntil550i.cloudfront.net/sb/latest/sb2007210058328650007120938/1280_960/b25fd414-d196-44ce-8842-b938b1c39bc2.png" class="giphy-embed" alt="Kirito" width="200" align="center"></div>
 
